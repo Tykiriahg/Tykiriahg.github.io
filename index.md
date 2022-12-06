@@ -14,3 +14,5 @@ Here are some poses that you can try!
 3. Child’s Pose: This pose is a great way to relax and reset. To get into the pose, start on your hands and knees and slowly lower your torso down so it rests between your thighs. Place your arms either by your side or stretch them out in front of you. Allow your forehead to rest on the floor and relax your entire body.
 
 4. Tree Pose: This pose is great for improving balance and focus. To get into the pose, start in standing position and shift your weight onto your left foot. Slowly bring your right foot up and place the sole against your inner left thigh. Press your foot into your thigh and raise your arms above your head, bringing your palms together. Gaze forward and hold for a few breaths.
+
+<img src="yogapose1.jpg" width="400">
