@@ -10,6 +10,6 @@ Hot Yoga,
 Power Yoga,
 Restorative Yoga
 
-<img scr="yogapose1.jpg" width="400">
+<img src="yogapose1.jpg" width="400">
 
 <a href="index.html">Home</a> | <a href="about.html">About us</a>
