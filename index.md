@@ -30,4 +30,4 @@ Practicing yoga in the evening can help you relax, unwind and prepare for a good
 
 <img src="treepose.jpg" width="400">
 
-I hope that this information was informing. Namaste.
+
