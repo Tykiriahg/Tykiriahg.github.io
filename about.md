@@ -9,3 +9,5 @@ Aerial Yoga,
 Hot Yoga,
 Power Yoga,
 Restorative Yoga
+
+<a href="index.html">Home</a> | <a href="about.html"About us</a>
